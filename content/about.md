@@ -1,34 +1,19 @@
 ---
 layout: page
 title: About
-date: 2010-12-31 23:00:00 +0000
+date: 2010-12-31T23:00:00.000+00:00
 menu:
   main:
     weight: 1
 
 ---
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Eh bien voilà... Je pense avoir réussi à adapter l'affichage de mon planning.
+Nouveau format (calendrier), mais normalement aussi lisible que l'ancien.
+La seule contrepartie : j'ai dû changer l'adresse web (pour des considérations techniques).
+Je laisse donc ce texte ici quelques semaines (mois ?), mais je vous invite dès à présent à vous rendre ici : <https://planning.pascal.pm>, et à modifier votre favori/signet/bookmark si besoin.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Il n'y a plus qu'une seule adresse, et vous pouvez visualiser le mois suivant à l'aide des flèches. S'il n'y a rien, c'est qu'il n'est pas encore disponible.
 
-There are currently two themes built on Poole:
+Par contre, n'hésitez pas à me prévenir en cas de problème ! Je ne m'en rendrai pas forcément compte tout de suite.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Merci !
